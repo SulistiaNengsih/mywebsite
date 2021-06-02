@@ -1,0 +1,174 @@
+body{
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+  font-weight: bolder;
+  margin: 0;
+}
+
+p {
+  line-height: 2;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.skill_row {
+  width: 45%;
+  margin: auto;
+}
+
+.top_container {
+  background-color: #EAF6F6;
+  margin-top: 0px;
+  color: #66BFBF;
+}
+
+.middle_container {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.bottom_container {
+  background-color: #66BFBF;
+  margin-top: 60px;
+  margin-bottom: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-weight: lighter;
+  font-size: 0.8rem;
+}
+
+.contact_me {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.cloud_1 {
+  position: absolute;
+  right: 250px;
+  top: 100px;
+}
+
+.cloud_2 {
+  position: absolute;
+  left: 250px;
+}
+
+.top_intro {
+  font-family: 'Pacifico', cursive;
+  font-size: 5rem;
+  margin-top: 0;
+  padding-top: 50px;
+}
+
+.top_desc {
+  font-size: 2rem;
+}
+
+.FotoDiri {
+  width: 20%;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #66BFBF;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+h3 {
+  color: #11999E;
+  font-weight: bolder;
+}
+
+.java_icon {
+  width: 20%;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+.java_title {
+  text-align: left;
+  margin-left: 200px;
+}
+
+.java_desc {
+  text-align: left;
+  margin-left: 200px;
+}
+
+.SQL_icon {
+  width: 20%;
+  float: right;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 90px;
+}
+
+.SQL_title {
+  text-align: left;
+  margin-top: 100px;
+  margin-bottom: 25px;
+}
+
+.SQL_desc {
+  text-align: left;
+  margin-right: 200px;
+}
+
+.contact_me_desc {
+  width: 40%;
+  margin: auto;
+  margin: 40px auto 60px;
+}
+
+hr {
+  width: 5%;
+  border: dotted 6px;
+  border-color: #EAF6F6;
+  border-bottom: none;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+.contact_me_button {
+   -webkit-border-radius: 13px;
+   -moz-border-radius: 13px;
+   border-radius: 13px;
+   color: #FFFFFF;
+   font-family: 'Inconsolata', monospace;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 15px;
+   background-color: #66BFBF;
+   -webkit-box-shadow: 0 1px 6px 0 #66BFBF;
+   -moz-box-shadow: 0 1px 6px 0 #66BFBF;
+   box-shadow: 0 1px 6px 0 #66BFBF;
+   text-shadow: 1px 1px 20px #0059A0;
+   border: solid #55A7A7 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.contact_me_button:hover {
+   border: solid #DFDFDF 1px;
+   background: #AEB3BB;
+   background-image: -webkit-linear-gradient(top, #AEB3BB, #D7DEE6);
+   background-image: -moz-linear-gradient(top, #AEB3BB, #D7DEE6);
+   background-image: -ms-linear-gradient(top, #AEB3BB, #D7DEE6);
+   background-image: -o-linear-gradient(top, #AEB3BB, #D7DEE6);
+   background-image: -webkit-gradient(to bottom, #AEB3BB, #D7DEE6);
+   -webkit-border-radius: 13px;
+   -moz-border-radius: 13px;
+   border-radius: 13px;
+   text-decoration: none;
+}
